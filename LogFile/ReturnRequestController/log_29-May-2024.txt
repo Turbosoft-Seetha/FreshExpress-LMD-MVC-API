@@ -1,0 +1,20 @@
+29-May-2024 20.22.06-InsReturnRequest STARTED -2024-05-29 8.22.06 PM
+29-May-2024 20.22.06-====================
+29-May-2024 20.22.07-itemData  - [{"reason":"0","invoiceID":"0","prdID":"11649","HigherUOM":"21","HigherQty":"8.000","LowerUOM":"","LowerQty":"0.00"},{"reason":"0","invoiceID":"0","prdID":"20012","HigherUOM":"17","HigherQty":"1","LowerUOM":"","LowerQty":"0"},{"reason":"0","invoiceID":"0","prdID":"22952","HigherUOM":"21","HigherQty":"2.000","LowerUOM":"","LowerQty":"0.00"}]
+29-May-2024 20.22.08-batchData  - [{"prdID":"11649","ExpiryDate":"20240529","UOM":"21","ReturnQty":"3.000","Mode":"B","BatSerialNo":"290524193204"},{"prdID":"11649","ExpiryDate":"20240529","UOM":"21","ReturnQty":"5.000","Mode":"B","BatSerialNo":"290524193211"},{"prdID":"20012","ExpiryDate":"20240529","UOM":"17","ReturnQty":"1","Mode":"B","BatSerialNo":"290524193222"},{"prdID":"22952","ExpiryDate":"20240529","UOM":"21","ReturnQty":"2.000","Mode":"B","BatSerialNo":"290524193237"}]
+29-May-2024 20.22.32-InsReturnRequest Reuest_ID - 1187
+29-May-2024 20.24.02-dtReturn - 
+29-May-2024 20.24.03- InsReturnRequest Exception - Object reference not set to an instance of an object.
+29-May-2024 20.24.03-Object reference not set to an instance of an object.
+29-May-2024 20.24.03-InsReturnRequest ENDED - 2024-05-29 8.24.03 PM
+29-May-2024 20.24.03-==================
+29-May-2024 20.25.23-InsReturnRequest STARTED -2024-05-29 8.25.23 PM
+29-May-2024 20.25.23-====================
+29-May-2024 20.25.24-itemData  - [{"reason":"0","invoiceID":"0","prdID":"11649","HigherUOM":"21","HigherQty":"8.000","LowerUOM":"","LowerQty":"0.00"},{"reason":"0","invoiceID":"0","prdID":"20012","HigherUOM":"17","HigherQty":"1","LowerUOM":"","LowerQty":"0"},{"reason":"0","invoiceID":"0","prdID":"22952","HigherUOM":"21","HigherQty":"2.000","LowerUOM":"","LowerQty":"0.00"}]
+29-May-2024 20.25.24-batchData  - [{"prdID":"11649","ExpiryDate":"20240529","UOM":"21","ReturnQty":"3.000","Mode":"B","BatSerialNo":"290524193204"},{"prdID":"11649","ExpiryDate":"20240529","UOM":"21","ReturnQty":"5.000","Mode":"B","BatSerialNo":"290524193211"},{"prdID":"20012","ExpiryDate":"20240529","UOM":"17","ReturnQty":"1","Mode":"B","BatSerialNo":"290524193222"},{"prdID":"22952","ExpiryDate":"20240529","UOM":"21","ReturnQty":"2.000","Mode":"B","BatSerialNo":"290524193237"}]
+29-May-2024 20.25.43-InsReturnRequest Reuest_ID - 1187
+29-May-2024 20.27.03-dtReturn - 
+29-May-2024 22.16.37- InsReturnRequest Exception - Object reference not set to an instance of an object.
+29-May-2024 22.16.37-Object reference not set to an instance of an object.
+29-May-2024 22.16.37-InsReturnRequest ENDED - 2024-05-29 10.16.37 PM
+29-May-2024 22.16.37-==================

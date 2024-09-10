@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MVC_API.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MVC_API_ItemMaster_MasterMgmntDigits" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://192.168.150.32:3047/FXUAT/WS/FRESH%20EXPRESS/Codeunit/MasterMgmntDigits</Value>
+    </Setting>
+    <Setting Name="MVC_API_FE_Nav_Service_PDTAddOn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://192.168.150.32:3047/FXUAT/WS/FRESH%20EXPRESS/Codeunit/PDTAddOn</Value>
+    </Setting>
+    <Setting Name="MVC_API_FE_Nav_Production_ProductionAddOn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://192.168.150.32:3047/FXUAT/WS/FRESH%20EXPRESS/Codeunit/ProductionAddOn</Value>
+    </Setting>
+    <Setting Name="MVC_API_FE_NAV_Serverice_MasterMgmntDigits" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://192.168.150.32:3047/FXUAT/WS/FRESH%20EXPRESS/Codeunit/MasterMgmntDigits</Value>
+    </Setting>
+    <Setting Name="MVC_API_FE_Nav_Service_MasterMgmntDigits" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://192.168.150.32:3047/FXUAT/WS/FRESH%20EXPRESS/Codeunit/MasterMgmntDigits</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

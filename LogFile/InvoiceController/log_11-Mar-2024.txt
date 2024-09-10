@@ -1,0 +1,11 @@
+11-Mar-2024 15.50.22-GetInvoiceInfo STARTED -2024-03-11 3.50.22 PM
+11-Mar-2024 15.50.22-====================
+11-Mar-2024 15.50.25-GetInvoiceInfo Exception - Column 'dln_DeliveryNumber' does not belong to table Table1.
+11-Mar-2024 15.50.25-GetInvoiceInfo ENDED - 2024-03-11 3.50.25 PM
+11-Mar-2024 15.50.25-==================
+11-Mar-2024 15.52.02-GetInvoiceInfo STARTED -2024-03-11 3.52.02 PM
+11-Mar-2024 15.52.02-====================
+11-Mar-2024 16.03.38-GetInvoiceInfo STARTED -2024-03-11 4.03.38 PM
+11-Mar-2024 16.03.38-====================
+11-Mar-2024 16.09.10-GetInvoiceInfo STARTED -2024-03-11 4.09.10 PM
+11-Mar-2024 16.09.10-====================

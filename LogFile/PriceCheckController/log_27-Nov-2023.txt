@@ -1,0 +1,43 @@
+27-Nov-2023 14.09.12-SelPriceCheck STARTED -2023-11-27 2.09.12 PM
+27-Nov-2023 14.09.12-====================
+27-Nov-2023 14.09.21- SelPriceCheck Exception - Microsoft Dynamics NAV Business Web Services attempted to issue a client callback to show a confirmation dialog box: Few Sample or Marketing documents are pending for your approval, Do you want to view open them? (CodeUnit 1 ApplicationManagement). Client callbacks are not supported on Microsoft Dynamics NAV Business Web Services.
+27-Nov-2023 14.09.21-SelPriceCheck ENDED - 2023-11-27 2.09.21 PM
+27-Nov-2023 14.09.21-==================
+27-Nov-2023 14.09.56-SelPriceCheck STARTED -2023-11-27 2.09.56 PM
+27-Nov-2023 14.09.57-====================
+27-Nov-2023 14.10.17- SelPriceCheck Exception - Microsoft Dynamics NAV Business Web Services attempted to issue a client callback to show a confirmation dialog box: Few Sample or Marketing documents are pending for your approval, Do you want to view open them? (CodeUnit 1 ApplicationManagement). Client callbacks are not supported on Microsoft Dynamics NAV Business Web Services.
+27-Nov-2023 14.10.17-SelPriceCheck ENDED - 2023-11-27 2.10.17 PM
+27-Nov-2023 14.10.17-==================
+27-Nov-2023 14.10.33-SelPriceCheck STARTED -2023-11-27 2.10.33 PM
+27-Nov-2023 14.10.33-====================
+27-Nov-2023 14.15.08- SelPriceCheck Exception - Microsoft Dynamics NAV Business Web Services attempted to issue a client callback to show a confirmation dialog box: Few Sample or Marketing documents are pending for your approval, Do you want to view open them? (CodeUnit 1 ApplicationManagement). Client callbacks are not supported on Microsoft Dynamics NAV Business Web Services.
+27-Nov-2023 14.15.08-SelPriceCheck ENDED - 2023-11-27 2.15.08 PM
+27-Nov-2023 14.15.08-==================
+27-Nov-2023 15.40.14-SelPriceCheck STARTED -2023-11-27 3.40.14 PM
+27-Nov-2023 15.40.14-====================
+27-Nov-2023 15.42.31- SelPriceCheck Exception - Microsoft Dynamics NAV Business Web Services attempted to issue a client callback to show a confirmation dialog box: Few Sample or Marketing documents are pending for your approval, Do you want to view open them? (CodeUnit 1 ApplicationManagement). Client callbacks are not supported on Microsoft Dynamics NAV Business Web Services.
+27-Nov-2023 15.42.31-SelPriceCheck ENDED - 2023-11-27 3.42.31 PM
+27-Nov-2023 15.42.31-==================
+27-Nov-2023 15.42.46-SelPriceCheck STARTED -2023-11-27 3.42.46 PM
+27-Nov-2023 15.42.46-====================
+27-Nov-2023 15.45.30- SelPriceCheck Exception - Microsoft Dynamics NAV Business Web Services attempted to issue a client callback to show a confirmation dialog box: Few Sample or Marketing documents are pending for your approval, Do you want to view open them? (CodeUnit 1 ApplicationManagement). Client callbacks are not supported on Microsoft Dynamics NAV Business Web Services.
+27-Nov-2023 15.45.30-SelPriceCheck ENDED - 2023-11-27 3.45.30 PM
+27-Nov-2023 15.45.30-==================
+27-Nov-2023 15.57.57-SelPriceCheck STARTED -2023-11-27 3.57.57 PM
+27-Nov-2023 15.57.58-====================
+27-Nov-2023 15.59.31- SelPriceCheck Exception - Microsoft Dynamics NAV Business Web Services attempted to issue a client callback to show a confirmation dialog box: Few Sample or Marketing documents are pending for your approval, Do you want to view open them? (CodeUnit 1 ApplicationManagement). Client callbacks are not supported on Microsoft Dynamics NAV Business Web Services.
+27-Nov-2023 15.59.31-SelPriceCheck ENDED - 2023-11-27 3.59.31 PM
+27-Nov-2023 15.59.31-==================
+27-Nov-2023 17.39.34-SelPriceCheck STARTED -2023-11-27 5.39.34 PM
+27-Nov-2023 17.39.35-====================
+27-Nov-2023 17.40.58- SelPriceCheck Exception - Unable to connect to the remote server
+27-Nov-2023 17.40.58-SelPriceCheck ENDED - 2023-11-27 5.40.58 PM
+27-Nov-2023 17.40.58-==================
+27-Nov-2023 17.42.44-SelPriceCheck STARTED -2023-11-27 5.42.44 PM
+27-Nov-2023 17.42.44-====================
+27-Nov-2023 17.51.33-SelPriceCheck STARTED -2023-11-27 5.51.33 PM
+27-Nov-2023 17.51.33-====================
+27-Nov-2023 17.54.12-SelPriceCheck STARTED -2023-11-27 5.54.12 PM
+27-Nov-2023 17.54.12-====================
+27-Nov-2023 17.58.50-SelPriceCheck STARTED -2023-11-27 5.58.50 PM
+27-Nov-2023 17.58.50-====================
